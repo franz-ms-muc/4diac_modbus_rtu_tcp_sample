@@ -13,13 +13,13 @@
 			<Parameter Name="QI" Value="TRUE"/>
 			<Parameter Name="ID" Value="ID_01"/>
 			<Parameter Name="SD_1" Value="BYTE#16#1"/>
-			<Parameter Name="SD_2" Value="BYTE#16#1"/>
+			<Parameter Name="SD_2" Value="BYTE#16#0"/>
 			<Parameter Name="SD_3" Value="BYTE#16#1"/>
-			<Parameter Name="SD_4" Value="BYTE#16#1"/>
+			<Parameter Name="SD_4" Value="BYTE#16#0"/>
 			<Parameter Name="SD_5" Value="BYTE#16#1"/>
-			<Parameter Name="SD_6" Value="BYTE#16#1"/>
+			<Parameter Name="SD_6" Value="BYTE#16#0"/>
 			<Parameter Name="SD_7" Value="BYTE#16#1"/>
-			<Parameter Name="SD_8" Value="BYTE#16#1"/>
+			<Parameter Name="SD_8" Value="BYTE#16#0"/>
 		</FB>
 	</SubAppNetwork>
 </SubAppType>
