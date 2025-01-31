@@ -9,7 +9,7 @@
 	<SubAppInterfaceList>
 	</SubAppInterfaceList>
 	<SubAppNetwork>
-		<SubApp Name="modbus_rtu" Type="modbus_rtu" x="2760" y="373.33">
+		<SubApp Name="modbus_rtu" Type="modbus_tcp" x="2760" y="373.33">
 		</SubApp>
 	</SubAppNetwork>
 </SubAppType>

@@ -8,11 +8,13 @@
 	</CompilerInfo>
 	<GlobalConstants>
 		<VarDeclaration Name="ID_01_RTU" Type="WSTRING" InitialValue="&quot;modbus[rtu:/dev/uart/1:9600:N:8:1:delay:1:500:c0..7:c0..7]&quot;"/>
+		<VarDeclaration Name="ID_02_RTU" Type="WSTRING" InitialValue="&quot;modbus[rtu:/dev/uart/1:9600:N:8:1:delay:1:500:d0..7:]&quot;"/>
 		<VarDeclaration Name="ID_01_TCP" Type="WSTRING" InitialValue="&quot;modbus[tcp:192.168.1.99:502:1:500:h468:h470]&quot;"/>
 		<VarDeclaration Name="ID_02_TCP" Type="WSTRING" InitialValue="&quot;modbus[tcp:192.168.1.99:502:1:500:h51:]&quot;"/>
 	</GlobalConstants>
 	<OriginalSource><![CDATA[VAR_GLOBAL CONSTANT
 	ID_01_RTU : WSTRING := "modbus[rtu:/dev/uart/1:9600:N:8:1:delay:1:500:c0..7:c0..7]";
+	ID_02_RTU : WSTRING := "modbus[rtu:/dev/uart/1:9600:N:8:1:delay:1:500:d0..7:]";
 	ID_01_TCP : WSTRING := "modbus[tcp:192.168.1.99:502:1:500:h468:h470]";
 	ID_02_TCP : WSTRING := "modbus[tcp:192.168.1.99:502:1:500:h51:]";
 END_VAR
