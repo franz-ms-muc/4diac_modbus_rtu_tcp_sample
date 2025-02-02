@@ -1,5 +1,5 @@
-# 4diac_modbus_rtu_sample
-4diac_modbus_rtu_sample
+# 4diac_modbus_rtu_tcp_sample
+4diac_modbus_rtu_tcp_sample
 
 
 
